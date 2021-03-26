@@ -1,0 +1,3 @@
+#list-airports:
+#    path: /airports
+#    controller: App\Controller\AirportController::index
